@@ -1,0 +1,13 @@
+/home/thiago/Documentos/projects/ExampleObserver/bin/Debug/netcoreapp3.1/ExampleObserver
+/home/thiago/Documentos/projects/ExampleObserver/bin/Debug/netcoreapp3.1/ExampleObserver.deps.json
+/home/thiago/Documentos/projects/ExampleObserver/bin/Debug/netcoreapp3.1/ExampleObserver.runtimeconfig.json
+/home/thiago/Documentos/projects/ExampleObserver/bin/Debug/netcoreapp3.1/ExampleObserver.runtimeconfig.dev.json
+/home/thiago/Documentos/projects/ExampleObserver/bin/Debug/netcoreapp3.1/ExampleObserver.dll
+/home/thiago/Documentos/projects/ExampleObserver/bin/Debug/netcoreapp3.1/ExampleObserver.pdb
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.csprojAssemblyReference.cache
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.AssemblyInfoInputs.cache
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.AssemblyInfo.cs
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.dll
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.pdb
+/home/thiago/Documentos/projects/ExampleObserver/obj/Debug/netcoreapp3.1/ExampleObserver.genruntimeconfig.cache
